@@ -1,0 +1,1 @@
+This is Jeremy Smith's first git project
